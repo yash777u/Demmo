@@ -1,7 +1,3 @@
-Sure! Here's a detailed documentation section for the backend configuration, setup, and testing to include in your README file:
-
----
-
 ## Backend Setup and Configuration
 
 This section guides you through setting up and running the backend of the project, which uses Spring Boot, Spring Security, and Redis for session management.
