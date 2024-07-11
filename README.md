@@ -16,8 +16,8 @@ Before you start, ensure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone <your-repository-url>
-   cd <your-repository-directory>
+   git clone https://github.com/yash777u/Demmo.git
+   cd Demmo
    ```
 
 2. **Set Up Redis**
